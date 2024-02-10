@@ -12,7 +12,7 @@ body {
   margin-top: -35%;
 }
 body {
-  background-image: url(/assest/images/c.jpg);
+  background-image: url(../images/c.jpg);
   /* background-position: center; */
   background-repeat: no-repeat;
   background-size: cover;
